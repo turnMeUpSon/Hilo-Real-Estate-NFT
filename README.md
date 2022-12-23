@@ -1,5 +1,7 @@
 # Hilo is a Real Estate NFT marketplace which allows people to buy real estate propery using Ethereum Blockchain
 
+![Image](https://github.com/turnMeUpSon/Hilo-Real-Estate-NFT/blob/main/Screenshot%20from%202022-12-22%2017-28-26.png)
+
 ## Technology Stack & Tools
 
 - Solidity (Writing Smart Contracts & Tests)
