@@ -39,5 +39,20 @@
     "@nomicfoundation/hardhat-toolbox": "^2.0.0",
     "@openzeppelin/contracts": "^4.7.3",
     "hardhat": "^2.12.4"
-  }
+  },
+  "description": "## Technology Stack & Tools",
+  "main": "hardhat.config.js",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/turnMeUpSon/Hilo-Real-Estate-NFT.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/turnMeUpSon/Hilo-Real-Estate-NFT/issues"
+  },
+  "homepage": "https://github.com/turnMeUpSon/Hilo-Real-Estate-NFT#readme"
 }
